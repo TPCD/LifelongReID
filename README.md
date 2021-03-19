@@ -9,7 +9,6 @@ Code are coming soon.
 author = {Pu, Nan and Chen, Wei and Liu, Yu and Bakker, Erwin M. and Lew, Michael S.},
 title = {Lifelong Person Re-Identification via Adaptive Knowledge Accumulation},
 booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
 year = {2021}
 }
 ```
