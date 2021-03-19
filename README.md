@@ -5,7 +5,7 @@ The demo codes have been released. More detials please see our paper.
 
 ## Citation
 ```
-@InProceedings{pucvpr2021,
+@InProceedings{pu_cvpr2021,
 author = {Pu, Nan and Chen, Wei and Liu, Yu and Bakker, Erwin M. and Lew, Michael S.},
 title = {Lifelong Person Re-Identification via Adaptive Knowledge Accumulation},
 booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
