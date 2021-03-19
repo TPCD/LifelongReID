@@ -1,10 +1,18 @@
 # LifelongReID
-offical implement of our Lifelong Person Re-Identification via Adaptive Knowledge Accumulation in CVPR2021.
+Offical implementation of our Lifelong Person Re-Identification via Adaptive Knowledge Accumulation in CVPR2021.
 
+Code are coming soon.
 
-
-
-
+## Citation
+```
+@InProceedings{pucvpr2021,
+author = {Pu, Nan and Chen, Wei and Liu, Yu and Bakker, Erwin M. and Lew, Michael S.},
+title = {Lifelong Person Re-Identification via Adaptive Knowledge Accumulation},
+booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2021}
+}
+```
 # Install
 ## Enviornment
 conda create -n lreid python=3.7
@@ -35,6 +43,7 @@ git clone https://github.com/TPCD/LifelongReID
 cd LifelongReID
 
 python setup.py develop
+
 
 
 # Acknowledgement
