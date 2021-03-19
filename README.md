@@ -31,4 +31,4 @@ python setup.py develop
 
 # Acknowledgement
 
-The code is based on the PyTorch implementation of the Torchreid [https://github.com/KaiyangZhou/deep-person-reid].
+The code is based on the PyTorch implementation of the [Torchreid](https://github.com/KaiyangZhou/deep-person-reid]) and [Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch).
