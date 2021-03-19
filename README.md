@@ -19,7 +19,7 @@ pip install Cython sklearn numpy prettytable easydict tqdm visdom matplotlib
 
 If you want to use fp16, please follow https://github.com/NVIDIA/apex to install apex, which is just a optional pakage.
 
-The folloing codes work in our enviroment, but it could not work on other enviroment.
+The following codes work in our enviroment, but it could not work on other enviroment.
 
 git clone https://github.com/NVIDIA/apex
 
@@ -38,5 +38,4 @@ python setup.py develop
 
 
 # Acknowledgement
-
 The code is based on the PyTorch implementation of the [Torchreid](https://github.com/KaiyangZhou/deep-person-reid]) and [Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch).
