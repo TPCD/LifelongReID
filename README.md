@@ -19,10 +19,18 @@ pip install Cython sklearn numpy prettytable easydict tqdm visdom matplotlib
 
 If you want to use fp16, please follow https://github.com/NVIDIA/apex to install apex, which is just a optional pakage.
 
+The folloing codes work in our enviroment, but it could not work on other enviroment.
+
+git clone https://github.com/NVIDIA/apex
+
+cd apex
+
+pip install -v --disable-pip-version-check --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" ./
+
 ## lreid toolbox
 Then, you could clone our project and install lreid
 
-clone https://github.com/TPCD/LifelongReID.git
+git clone https://github.com/TPCD/LifelongReID
 
 cd LifelongReID
 
