@@ -1,7 +1,7 @@
 # LifelongReID
 Offical implementation of our Lifelong Person Re-Identification via Adaptive Knowledge Accumulation in CVPR2021.
 
-The baseline codes have been released. The plasticity-stability loss will be add soon. More details please see our paper.
+The code will come soon. More details please see our paper.
 
 
 ## Citation
