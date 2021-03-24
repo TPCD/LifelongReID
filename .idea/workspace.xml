@@ -26,7 +26,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcdf20d9-280b-4ca7-a8d6-dbf06594c942" name="Default Changelist" comment="Reorganize code.">
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/aka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +44,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
+  <component name="JupyterTrust" id="3c18be84-ec59-4dd2-97b8-b5992ebd991b" />
   <component name="ProjectId" id="1pyixaX92iKAg5riytd4aPNa7it" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,11 +54,13 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -69,7 +79,8 @@
       <workItem from="1616265063854" duration="908000" />
       <workItem from="1616494282913" duration="433000" />
       <workItem from="1616494741465" duration="875000" />
-      <workItem from="1616499167525" duration="977000" />
+      <workItem from="1616499167525" duration="1019000" />
+      <workItem from="1616509713800" duration="2410000" />
     </task>
     <task id="LOCAL-00001" summary="Update README">
       <created>1616162117084</created>
@@ -134,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616494989450</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Reorganize code.">
+      <created>1616509613736</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616509613736</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +193,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Reorganize code." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="354" y="147" key="#Inspections" timestamp="1616509947460">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="354" y="147" key="#Inspections/0.23.1440.877@0.23.1440.877" timestamp="1616509947460" />
+    <state x="100" y="123" width="1240" height="677" key="DiffContextDialog" timestamp="1616509651220">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="123" width="1240" height="677" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1616509651220" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1616509602187">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1616509602187" />
     <state x="508" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616494768073">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

@@ -1,9 +1,12 @@
 # LifelongReID
-Offical implementation of our Lifelong Person Re-Identification via Adaptive Knowledge Accumulation in CVPR2021.
+Offical implementation of our [Lifelong Person Re-Identification via Adaptive Knowledge Accumulation](https://arxiv.org/abs/2103.12462) in CVPR2021 
+by [Nan Pu](https://tpcd.github.io/), Wei Chen, [Yu Liu](https://visionyuliu.github.io/), [Erwin M. Bakker](https://www.universiteitleiden.nl/en/staffmembers/erwin-bakker/publications#tab-4) and [Michael S. Lew](http://liacs.leidenuniv.nl/~lewms/).
 
-The code will come soon. More details please see our paper.
+We provide a lifelong person reid toolbox [lreid](https://github.com/TPCD/LifelongReID) in this repo. 
 
+More details please see our paper.
 
+![Framework](docs/aka.png)
 ## Citation
 ```
 @InProceedings{pu_cvpr2021,
@@ -45,7 +48,7 @@ python setup.py develop
 ## Dataset prepration
 Please follow [Torchreid_Dataset_Doc](https://kaiyangzhou.github.io/deep-person-reid/datasets.html] to download datasets and unzip them to your data path (we refer to 'machine_dataset_path' in train_test.py).
 
-## train_test
+## Train & Test
 
 python train_test.py
 
