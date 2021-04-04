@@ -46,7 +46,7 @@ python setup.py develop
 ```
 
 ## Dataset prepration
-Please follow [Torchreid_Dataset_Doc](https://kaiyangzhou.github.io/deep-person-reid/datasets.html] to download datasets and unzip them to your data path (we refer to 'machine_dataset_path' in train_test.py).
+Please follow [Torchreid_Dataset_Doc](https://kaiyangzhou.github.io/deep-person-reid/datasets.html) to download datasets and unzip them to your data path (we refer to 'machine_dataset_path' in train_test.py). Alternatively, you could download some of unseen-domain datasets in [DualNorm](https://github.com/BJTUJia/person_reID_DualNorm).
 
 ## Train & Test
 
